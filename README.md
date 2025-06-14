@@ -58,6 +58,14 @@ Do you wish to repeat (yes/no)? no
 
 Enjoy the rest of your day Lebo! Goodbye!
 
+---
+
+## Usage
+```bash
+python age_in_months.py
+
+--
+
 ## 🔗 Author
 
 **Relebohile Bill**  
