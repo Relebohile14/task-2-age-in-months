@@ -60,13 +60,13 @@ Enjoy the rest of your day Lebo! Goodbye!
 
 ---
 
-## Usage
-```bash
-python age_in_months.py
-
---
-
 ## 🔗 Author
 
 **Relebohile Bill**  
 GitHub: [@Relebohile14](https://github.com/Relebohile14)
+
+---
+
+## Usage
+```bash
+python age_in_months.py
